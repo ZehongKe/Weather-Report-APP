@@ -3,11 +3,8 @@ Weather forecasting software based on Wafeng Weather api
 ## 项目简介
 
 本项目是一个基于Python开发的天气预报应用，旨在为用户提供便捷的城市天气查询服务。通过集成和风天气API，实现了实时天气、未来天气预报等功能，并提供了多语言支持、城市管理和数据刷新等实用特性。
-<video width="600" controls>
-  <source src="https://github.com/ZehongKe/Weather-Report-APP/blob/main/demo.mp4" type="video/mp4">
 
-</video>
-[![项目视频](https://i1.hdslb.com/bfs/archive/1d4b3bafdf4e1de16e6d6d3a0a0f7a4fc1f6e1b7.jpg)](https://www.bilibili.com/video/BV133SKYeE4K/)
+[![项目视频]([https://github.com/ZehongKe/Weather-Report-APP/blob/main/icons/900-fill.png])](https://www.bilibili.com/video/BV133SKYeE4K/)
 
 ## 依赖库
 ```bash
