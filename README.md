@@ -9,7 +9,7 @@ Weather forecasting software based on Wafeng Weather api
   <source src="https://github.com/ZehongKe/Weather-Report-APP/blob/main/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-[![项目视频]([https://github.com/ZehongKe/Weather-Report-APP/blob/main/icons/900-fill.png])](https://www.bilibili.com/video/BV133SKYeE4K/)
+[![项目视频](https://github.com/ZehongKe/Weather-Report-APP/blob/main/icons/900-fill.png)](https://www.bilibili.com/video/BV133SKYeE4K/)
 
 ## 依赖库
 ```bash
